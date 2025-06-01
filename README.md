@@ -88,13 +88,8 @@ Este projeto integra conhecimentos práticos de Excel com conceitos financeiros 
 
 ---
 
-## 🧑‍💻 Desenvolvido por
-
-[Maurício Barros]  
+## 🧑‍💻 Desenvolvido por Maurício Barros
+Especialista em Análise de Dados com interesse em IA Generativa.
 🔗 [github.com/opusvix](https://github.com/opusvix)
 
 ---
-
-## 📃 Licença
-
-MIT
