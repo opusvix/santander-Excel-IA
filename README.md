@@ -50,3 +50,51 @@ O usuário pode ajustar os seguintes campos:
 
 ## 📂 Estrutura do Projeto
 
+simulador-fundos-imobiliarios-excel/
+├── README.md
+
+├── Simulador_Investimentos_Fundos_Imobiliarios_Excel.xlsx
+
+└── imagens/
+
+├── simulacao-preenchida.png
+
+├── grafico-evolucao-patrimonio.png
+
+└── resumo-resultados.png
+
+
+---
+
+## 🛠️ Como Usar
+
+1. Baixe o arquivo Excel.
+2. Preencha os campos destacados em **amarelo** com os valores desejados.
+3. Veja os resultados sendo atualizados automaticamente.
+4. Acompanhe o gráfico de evolução patrimonial.
+
+---
+
+## 📌 Requisitos
+
+- Microsoft Excel (2016 ou superior) ou Google Sheets (com ajustes).
+- Habilitação de edição de fórmulas.
+
+---
+
+## 🧠 Aprendizados
+
+Este projeto integra conhecimentos práticos de Excel com conceitos financeiros reais, permitindo uma visão clara e direta sobre o impacto de juros compostos e aportes regulares na formação de patrimônio.
+
+---
+
+## 🧑‍💻 Desenvolvido por
+
+[Maurício Barros]  
+🔗 [github.com/opusvix](https://github.com/opusvix)
+
+---
+
+## 📃 Licença
+
+MIT
